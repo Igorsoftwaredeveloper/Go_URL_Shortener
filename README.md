@@ -1,1 +1,1 @@
-# Go_URL_Shortener
+go run .
